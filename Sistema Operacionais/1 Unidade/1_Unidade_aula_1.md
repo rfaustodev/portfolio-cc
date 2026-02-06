@@ -32,4 +32,3 @@ Os computadores interpreta as informações que pode ser imagens, vídeos, arqui
 - A quarta geração de computadores compreende desde de 1980 até a presente data, esses são os computadores pessoais. Com os avanços do desenvolvimento dos circuitos eletronicos ou microchip de uso pessoal. E ao passar do tempo foram evoluindo e tornando mais eficaz e pequenos e mais baratos.
 
 Os sistema operacionais usados nessa geração foram o Unix e MS-DOS, sendo o MS-DOS o principal meio de interfaces graficas pela iniciativas na epoca, e a geração mais nova do MS-DOS que conheçemos é windows.
-
