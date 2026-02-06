@@ -20,7 +20,7 @@ E outros componentes que pode incluir em um sistema operacional:
 
 - **Aplicativos:** São programas que realizam tarefas especificas. Isso incluir aplicativos de estudos, jogos, navegadores e entre outros.
 
-- **Sstema de arquivos:** O sistema de arquivos é responsável por organiza, armazenar e recuperar dados em dispositivos de armazenamentos, como discos rígidos e SSDS, Ele determina a strutura dos diretórios, a forma como arquivos são nomeados e como os dados são organizados no armazenamentos.
+- **Sistema de arquivos:** O sistema de arquivos é responsável por organiza, armazenar e recuperar dados em dispositivos de armazenamentos, como discos rígidos e SSDS, Ele determina a strutura dos diretórios, a forma como arquivos são nomeados e como os dados são organizados no armazenamentos.
 
 - **Serviços de rede:** Em sistema operacional de rede, há componentes para gerenciar a conectividade de rede, incluir configurações de rede, protocolos de comunicação, serviços de compartilhamento de arquivos e serviços web.
 
